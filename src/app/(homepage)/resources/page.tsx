@@ -29,7 +29,7 @@ const ResourcesPage = () => {
             Learning Teams
           </h1>
           <p className="max-w-[95%] text-sm text-neutral-600 sm:max-w-[90%] sm:text-base md:max-w-[85%] lg:max-w-[65%] lg:text-lg">
-            Explore guides, insights, and tools to help universities, schools,
+            Explored guides, insights, and tools to help universities, schools,
             and bootcamps run better learning communities.
           </p>
         </div>
